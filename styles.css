@@ -1,0 +1,86 @@
+* {
+    font-family: sans-serif;
+}
+
+h2,
+h3{
+    color: #111729;
+}
+
+p {
+    color: #4A5567;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #F2F5F9;
+}
+
+.card-container{
+    height: auto;
+    max-width: 418px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+
+.hero-image{
+    height: auto;
+    object-fit: contain;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.section-divider {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.info-section {
+    padding: 20px 30px 20px 30px;
+}
+
+.card-title{
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+.card-desc{
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+    margin-bottom: 0px;
+}
+
+hr {
+    border: 1px solid #F2F5F9;
+    margin: 0px 5px;
+}
+
+.author-section {
+    display: flex;
+    align-items: center;
+    padding: 20px 30px 20px 30px;
+}
+
+.avatar{
+    width: 10%;
+    border-radius: 50%;
+    border: 4px solid #F2F5F9;
+    margin-right: 15px;
+}
+
+.name{
+    margin: 0px;
+    font-size: 1rem;
+}
+
+.occupation{
+    margin: 0px;
+    font-size: .9rem;
+}
