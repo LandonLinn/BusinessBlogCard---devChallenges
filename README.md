@@ -48,7 +48,7 @@ This project involved designing and developing a visually appealing blog card co
 
 ## Learning Objectives
 
-- Enhance understanding of HTML semantics and clean structuring.
+- Enhance understanding of HTML semantics and clean structuring
 - Improve CSS skills, including layout techniques using flexbox
 - Develop an eye for detail by closely replicating a design from a brief
 - Build responsive components to cater to various devices
