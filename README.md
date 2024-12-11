@@ -1,6 +1,6 @@
 # Business Blog Card
 
-> I created a Beginner level challenge from [devChallenges.com](https://devchallenges.io/challenges-dashboard). The
+> A responsive business blog card recreated as part of the devChallenges.com project library, focusing on HTML and CSS. The card features a clean and professional design, showcasing blog details such as title, description, and author information
 
 ## Table of Contents
 
@@ -29,11 +29,14 @@
 
 ## About the Project
 
+This project involved designing and developing a visually appealing blog card component, emphasizing responsiveness and design replication. The aim was to create a fully functional and blog card layout based on the provided design brief
+
 ---
 
 ## Key Features
 
-- **Feature 1**:
+- **Responsive Design**: Adapts seamlessly to various screen sizes
+- **Clean Layout**: A minimalistic design that emphasizes content readability and visual hierarchy
 
 ---
 
@@ -44,6 +47,11 @@
 ---
 
 ## Learning Objectives
+
+- Enhance understanding of HTML semantics and clean structuring.
+- Improve CSS skills, including layout techniques using flexbox
+- Develop an eye for detail by closely replicating a design from a brief
+- Build responsive components to cater to various devices
 
 ---
 
