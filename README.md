@@ -1,6 +1,6 @@
 # Business Blog Card
 
-> A responsive business blog card recreated as part of the devChallenges.com project library, focusing on HTML and CSS. The card features a clean and professional design, showcasing blog details such as title, description, and author information
+> A responsive business blog card recreated as part of the [devChallenges.com](devChallenges.com) project library, focusing on HTML and CSS. The card features a clean and professional design, showcasing blog details such as title, description, and author information
 
 ## Table of Contents
 
