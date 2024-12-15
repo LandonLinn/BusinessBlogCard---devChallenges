@@ -92,10 +92,6 @@ hr {
 
     .section-divider {
         max-width: 300px;
-        transform: translate(-50%, -50%);
-        position: absolute;
-        left: 50%;
-        top: 250px;
     }
 
 }
